@@ -1,0 +1,51 @@
+D:\QLSV\Day01\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\QLSV\Day01\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\QLSV\Day01\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\QLSV\Day01\QLSV\QLSV\obj\Debug\QLSV.Login_Form.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.csprojAssemblyReference.cache
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.Login_Form.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.MainForm01.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\LTWins2020\QLSV\Day02\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe.config
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\bin\Debug\QLSV.exe
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\bin\Debug\QLSV.pdb
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.AssemblyReference.cache
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.AddStudentForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.Login_Form.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.MainForm01.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.Properties.Resources.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.GenerateResource.cache
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.csproj.CoreCompileInputs.cache
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.exe
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.pdb
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.studentListForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.UpdateDeleteStudentForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.AddCourse.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.RemoveCourse.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.EditCourse.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.ManageCoursesForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.PrintCourseForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.AddCourseStudent.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.StaticsForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.ManageStudentsForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.PrintStudentForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.AddScoreForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.RemoveScoreForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.ManageScoreForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.avgScoreByCourseForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.PrintScoreForm.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.ImportStudent.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.aVGByScore.resources
+D:\SPKT\HK5\Windows Programming\Week 02\QLSV\QLSV\QLSV\obj\Debug\QLSV.StaticsResult.resources
