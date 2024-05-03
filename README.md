@@ -1,5 +1,5 @@
-#Project of student management by c#
-##Some picture of the project 
+# Project of student management by c#
+## Some picture of the project 
 ![login](https://github.com/ZxxMiaxxZ/student_management/assets/92105842/e8205468-c18e-42de-bc0f-c8b086393269)
 ![student](https://github.com/ZxxMiaxxZ/student_management/assets/92105842/5975909d-bdd9-41da-8613-572c336a0c67)
 ![course](https://github.com/ZxxMiaxxZ/student_management/assets/92105842/c8ff3507-c592-4e62-850e-6a4c03033a1f)
